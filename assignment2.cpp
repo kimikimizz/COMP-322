@@ -1,6 +1,5 @@
 // Comp 322 Assignment 2
 // Name: Kim Zhao
-// Student ID: 260989483
 // No collaborators
 
 #include <iostream>
