@@ -9,3 +9,7 @@ We will be building a Data Store manager to help us get access to chunks of memo
 Assignment 2: Rebuilding A1 using OOP, custom Linked List, and pointers.
 
 Assignment 3: Building BlackJack game using OOP (in progress)
+
+## About Plagirism
+All codes have been uploaded after the due date of the assignments, and reflect my personal effort. <br />
+Although assignments change each semester, please do let me know if any of these are reused after Winter 2022. 
