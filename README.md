@@ -12,5 +12,5 @@ Assignment 3: Building BlackJack game using OOP (in progress)
 
 ## About Plagirism
 All codes have been uploaded after the due date of the assignments, and reflect my personal effort. <br />
-For COMP 322, no starter code was provided for any of the assignments, except for the main() method. I can safely say that those are 100% my own work. <br />
+For COMP 322, no starter code was provided for any of the assignments, except for the main() method. All lines are 100% my own work. <br />
 Although assignments change each semester, please do let me know if any of these are reused after Winter 2022. 
