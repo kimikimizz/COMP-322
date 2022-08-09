@@ -8,10 +8,10 @@ We will be building a Data Store manager to help us get access to chunks of memo
 
 Assignment 2: Rebuilding A1 using OOP, custom Linked List, and pointers.
 
-Assignment 3: Building BlackJack game using OOP (in progress)
+Assignment 3: Building a terminal BlackJack game using OOP
 
 ## About Plagirism
 All codes have been uploaded after the due date of the assignments, and reflect my personal effort. <br />
-Don't copy!!! You never know, maybe I didn't even receive a passing grade. <br />
+For fellow students... Don't copy!!! You never know, maybe I didn't even receive a passing grade. <br />
 For COMP 322, no starter code was provided for any of the assignments, except for the main() method. All lines are 100% my own work. <br />
 Although assignments change each semester, please do let me know if any of these are reused after Winter 2022. 
